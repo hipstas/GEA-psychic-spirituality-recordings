@@ -1,0 +1,6 @@
+---
+layout: manifest
+title: Che reads my palms, 10 July 1983 [Side B]
+manifest_name: che-reads-my-palms-10-july-1983-side-b-
+
+---
